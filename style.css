@@ -4,6 +4,7 @@
 
 img {
     width: 100%;
+    border-radius: 5px;
 }
 
 .hero-image {
@@ -52,4 +53,5 @@ img {
 
 .card-text {
     text-align: center;
+    color: whitesmoke;
 }
